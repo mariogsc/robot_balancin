@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/dronomy/catkin_ws/devel/include/**",
+        "/home/dronomy/catkin_ws/src/barcodescan/include/**",
+        "/home/dronomy/catkin_ws/src/mavros/libmavconn/include/**",
+        "/home/dronomy/catkin_ws/src/mavros/mavros/include/**",
+        "/home/dronomy/catkin_ws/src/mavros/mavros_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
